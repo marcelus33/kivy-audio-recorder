@@ -1,0 +1,12 @@
+docutils
+pygments
+# pypiwin32
+# kivy_deps.sdl2
+# kivy_deps.glew
+# kivy_deps.gstreamer
+# kivy_deps.angle
+pygame
+kivy
+https://github.com/kivymd/KivyMD/archive/master.zip
+pyjnius
+buildozer

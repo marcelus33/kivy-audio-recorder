@@ -1,0 +1,5 @@
+/.buildozer
+/venv
+/bin
+.idea
+__pycache__
