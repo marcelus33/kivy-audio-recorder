@@ -4,10 +4,10 @@
 title = audioRecorderGA
 
 # (str) Package name
-package.name = org.test.audiorecorderga
+package.name = com.guazuapp.audiorecorder
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.test
+package.domain = com.guazuapp
 
 # (str) Source code where the main.py live
 source.dir = .
